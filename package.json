@@ -11,5 +11,11 @@
     "url": "n"
   },
   "author": "Niyi",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "Cypress"
+  ],
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
 }
